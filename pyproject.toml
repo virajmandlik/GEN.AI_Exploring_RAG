@@ -1,0 +1,16 @@
+[project]
+name = "pdf-rag-uv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-genai>=1.52.0",
+    "google-generativeai>=0.8.5",
+    "imageio-ffmpeg>=0.6.0",
+    "moviepy>=2.2.1",
+    "pinecone>=3.0.0,<4.0.0",
+    "pypdf>=6.4.0",
+    "python-dotenv>=1.2.1",
+    "streamlit>=1.51.0",
+]

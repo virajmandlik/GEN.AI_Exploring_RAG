@@ -1,0 +1,55 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Env
+.env
+*.env
+
+# uv / virtual environment
+.venv/
+uv.lock
+
+# Streamlit
+.streamlit/
+
+# Temp files
+tmp/
+temp/
+*.wav
+*.mp3
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.png
+*.jpg
+*.jpeg
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+.history/
+
+# Qodo files
+.qodo/
+
+# MoviePy temp
+moviepy_temp/
